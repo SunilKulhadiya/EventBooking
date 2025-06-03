@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "155538793335",
+    "project_id": "realtyfinder-ce5d6",
+    "storage_bucket": "realtyfinder-ce5d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155538793335:android:bca4109e7aa4dbd4123772",
+        "android_client_info": {
+          "package_name": "com.websutility.azkar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjPsDqFkz9TfRQ1gYf1DWA2aCfs_QG4D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155538793335:android:5105ec5a68b88d51123772",
+        "android_client_info": {
+          "package_name": "com.websutility.goevents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjPsDqFkz9TfRQ1gYf1DWA2aCfs_QG4D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155538793335:android:e1633bfe243c1063123772",
+        "android_client_info": {
+          "package_name": "com.websutility.huna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjPsDqFkz9TfRQ1gYf1DWA2aCfs_QG4D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
